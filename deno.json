@@ -1,0 +1,9 @@
+{
+    "tasks": {
+        "dev": "deno run --allow-net --allow-read server.ts"
+    },
+    "imports": {
+        "oak": "https://deno.land/x/oak@v17.1.4/mod.ts"
+    },
+    "nodeModulesDir": "auto"
+}
